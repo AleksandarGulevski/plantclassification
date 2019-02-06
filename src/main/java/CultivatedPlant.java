@@ -1,0 +1,4 @@
+class CultivatedPlant extends Plant {
+
+
+}
